@@ -8,10 +8,10 @@ class DB:
     def __init__(self):
         # connect to the database
         try:
-            self.conobj = msc.connect(host = "localhost",
-                                 user = "root",
-                                 passwd = "dinox",
-                                 database = 'flights2')
+            self.conobj = msc.connect(host = "localhost",    # write your dns or host name.
+                                 user = "adnan_blsm",        # write your user name of mysql database.
+                                 passwd = "code_with_abkb",  # write your password of mysql database.
+                                 database = 'flights2')      # write your db name.
             # creating cursor object
             self.curobj = self.conobj.cursor()
         except msc.DatabaseError as dbe:
@@ -123,4 +123,5 @@ class DB:
             dates.append(item[0])
             frequency1.append(item[1])
         # finally return this 2 list to calling method.
+
         return dates, frequency1
