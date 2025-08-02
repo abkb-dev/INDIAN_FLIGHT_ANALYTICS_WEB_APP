@@ -37,9 +37,9 @@ A modern, interactive web application to **search flights** between Indian citie
 
 ### 📈 Analytics
 #### Airline Distribution | Busiest Airport Cities | Daily Trends
-![Airline Pie Chart](https://raw.githubusercontent.com/your_username/your_repo/main/path_to_piechart.png)
-![Bar Chart](https://raw.githubusercontent.com/your_username/your_repo/main/path_to_barchart.png)
-![Line Chart](https://raw.githubusercontent.com/your_username/your_repo/main/path_to_linechart.png)
+![Airline Pie Chart](Images/Airline_Distribution.png)
+![Bar Chart](Images/Busiest_Airport_Cities.png)
+![Line Chart](Images/Daily_Flight _Trends.png)
 
 > *(Replace image links with actual GitHub-hosted URLs after pushing)*
 
