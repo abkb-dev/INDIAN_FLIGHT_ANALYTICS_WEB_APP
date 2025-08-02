@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#3e6a71"               # Ming
+backgroundColor = "#0f1e2d"            # Elephant
+secondaryBackgroundColor = "#1e3a5f"   # Cello
+textColor = "#ffffff"
+font = "sans serif"
+accentColor = "#4b6c8c"                # Wedgewood
